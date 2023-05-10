@@ -66,19 +66,9 @@ button:hover{
     color: white;
     cursor: pointer;
 }
-@media(max-width:1000px){
-    body{
-        scale: 70%;
-    }
-    .logo{
-        margin-left: -80px;
-    }
-    .huddle{
-        margin-top: -350px;
-    }
-}
 
-@media (max-width:900px){
+
+@media (max-width:1380px){
     .grid-container{
         grid-template-columns: 1fr;
     }
