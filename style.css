@@ -154,7 +154,7 @@ button:hover{
     h1{
         font-size: 30px;
         text-align: center;
-        margin-left: 50px;
+        margin-left: 20px;
 
     }
     .huddle{
@@ -171,7 +171,8 @@ button:hover{
         position: static;
     }
     .fa{
-        margin-bottom: -100px;
+        margin-bottom: -50px;
+        margin-right: 10px;
     }
 }
 .icons{
