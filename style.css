@@ -166,13 +166,12 @@ button:hover{
         position: static;
     }
     button{
-        margin-left:110px;
+        margin-left:85px;
         margin-top: 10px;
         position: static;
     }
     .fa{
         margin-bottom: -100px;
-        margin-right: 65px;
     }
 }
 .icons{
